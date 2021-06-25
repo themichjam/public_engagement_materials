@@ -1,5 +1,9 @@
 # Open Source Public Engagement for Data Science (Hackathon)
 
+Want to add your own resources? Click the button below!
+[![hackmd-github-sync-badge](https://hackmd.io/Oyz3LGv7TcOiHMxACSwQTg/badge)](https://hackmd.io/Oyz3LGv7TcOiHMxACSwQTg)
+
+
 
 ## First steps
 Maybe some people can talk to actual science communicators? In many places you can do a bachelors programme in science communication. Seems like a logical first step if we're interested in best practices, no?
@@ -193,3 +197,5 @@ xxx
 
 # Contributors
 Feel free to add your name if you've contributed to this list or hackathons!
+
+1. Michelle K Jamieson (@themichjam)

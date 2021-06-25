@@ -1,6 +1,7 @@
 # Open Source Public Engagement for Data Science (Hackathon)
 
-Want to add your own resources? Click the button below!
+Want to add your own resources? Click the 'Collaborate on HackMD' button!
+
 [![hackmd-github-sync-badge](https://hackmd.io/Oyz3LGv7TcOiHMxACSwQTg/badge)](https://hackmd.io/Oyz3LGv7TcOiHMxACSwQTg)
 
 
